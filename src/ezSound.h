@@ -2,6 +2,7 @@
 #define _EZSOUND_H_
 
 #include <Arduino.h>
+#include <vector>
 
 // Full-duplex does not work on systems that share the clock pins between input and output.
 // (Or so I believe. If you have it working, please file an issue to let me know how.)

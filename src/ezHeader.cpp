@@ -37,7 +37,7 @@ void ezHeaderClass::settings() {
   #ifdef _EZWIFI_H_
     settingsMenu.addItem("Wifi", doFunction { ezWifi.menu(); });
   #endif
-
+  settingsMenu.addItem("Reset", doFunction { ESP.restart(); });
   settingsMenu.addItem("Exit", EZ_BACK);
   settingsMenu.run();
   _inSettings = false;

@@ -3,7 +3,7 @@
 
 #include <ezPointAndZone.h>
 
-#include <M5Core2.h>
+#include <M5Tough.h>
 #define DISPLAY M5.Lcd
 
 

@@ -1,6 +1,6 @@
 #include "ezSound.h"
 
-#include <M5Core2.h>
+#include <M5Tough.h>
 #include <driver/i2s.h>
 
 

@@ -3,6 +3,7 @@
 
 #include <Arduino.h>
 #include <ezPointAndZone.h>
+#include <vector>
 
 // doFunction just hides a 'lambda' a.k.a. anonyous function
 #define doFunction         []()
