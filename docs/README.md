@@ -1,3 +1,5 @@
+**This is a local fork with an adaption for the M5Togh device!**
+
 # Core2ez
 
 ## Warning: no active development...
