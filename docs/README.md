@@ -1,4 +1,4 @@
-**This is a local fork with an adaption for the M5Togh device!**
+**This is a local fork with an adaption for the M5Tough device!**
 
 # Core2ez
 
